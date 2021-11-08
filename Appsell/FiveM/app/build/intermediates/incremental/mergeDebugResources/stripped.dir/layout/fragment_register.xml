@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+           
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white" android:tag="layout/fragment_register_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layout_header"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/btn_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:background="?android:attr/actionBarItemBackground"
+                android:contentDescription="@null"
+                android:padding="@dimen/_4sdp"
+                android:src="@drawable/ic_back"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                style="@style/TextPrimaryBold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/register"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintTop_toBottomOf="@id/layout_header">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_16sdp"
+                android:layout_marginBottom="@dimen/_16sdp">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_24sdp"
+                    android:layout_marginTop="@dimen/_24sdp"
+                    android:layout_marginEnd="@dimen/_24sdp"
+                    app:layout_constraintVertical_bias="0">
+
+                    <TextView
+                        android:id="@+id/txt_email_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/email"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_input_email"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        app:layout_constraintTop_toBottomOf="@id/txt_email_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_email" />
+
+                        <EditText
+                            android:id="@+id/edt_email"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/hint_input_phone"
+                            android:inputType="textEmailAddress" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_user_name_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/user_name"
+                        android:visibility="visible"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_input_email" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_user_name"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible"
+                        app:layout_constraintTop_toBottomOf="@id/txt_user_name_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_user" />
+
+                        <EditText
+                            android:id="@+id/edt_user_name"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/hint_user_name"
+                            android:inputType="text"
+                            android:singleLine="true" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_birth_day_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/birth_day"
+                        android:visibility="visible"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_user_name" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_birth_day"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible"
+                        app:layout_constraintTop_toBottomOf="@id/txt_birth_day_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_birth_day" />
+
+                        <EditText
+                            android:id="@+id/edt_birth_day"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/birth_day"
+                            android:inputType="text"
+                            android:singleLine="true" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_address_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/address"
+                        android:visibility="visible"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_birth_day" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_address"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible"
+                        app:layout_constraintTop_toBottomOf="@id/txt_address_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_address" />
+
+                        <EditText
+                            android:id="@+id/edt_address"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/address"
+                            android:inputType="text"
+                            android:singleLine="true" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_phone_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/phone"
+                        android:visibility="visible"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_address" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_phone"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:visibility="visible"
+                        app:layout_constraintTop_toBottomOf="@id/txt_phone_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_phone_login" />
+
+                        <EditText
+                            android:id="@+id/edt_phone"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/phone"
+                            android:inputType="number"
+                            android:singleLine="true" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_password_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/password"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_phone" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_input_password"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        app:layout_constraintTop_toBottomOf="@id/txt_password_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_lock_password" />
+
+                        <EditText
+                            android:id="@+id/edt_password"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/hint_input_password"
+                            android:imeOptions="actionDone"
+                            android:inputType="textPassword"
+                            android:singleLine="true" />
+
+                        <ImageView
+                            android:id="@+id/img_eye_register"
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_eye" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_password_again_title"
+                        style="@style/TextLabel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_16sdp"
+                        android:text="@string/password_again"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/layout_input_password" />
+
+                    <LinearLayout
+                        android:id="@+id/layout_input_password_again"
+                        style="@style/InputForm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_8sdp"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        app:layout_constraintTop_toBottomOf="@id/txt_password_again_title">
+
+                        <ImageView
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginEnd="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_lock_password" />
+
+                        <EditText
+                            android:id="@+id/edt_password_again"
+                            style="@style/EditTextPrimary"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:autofillHints="true"
+                            android:hint="@string/hint_input_password"
+                            android:imeOptions="actionDone"
+                            android:inputType="textPassword"
+                            android:singleLine="true" />
+
+                        <ImageView
+                            android:id="@+id/img_eye_again"
+                            android:layout_width="32dp"
+                            android:layout_height="32dp"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            android:contentDescription="@null"
+                            android:src="@drawable/ic_eye" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/txt_register"
+                        style="@style/TextSubmitPrimary"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/bg_button"
+                        android:gravity="center"
+                        android:text="@string/register"
+                        android:textColor="@color/white"
+                        app:layout_constraintTop_toBottomOf="@id/layout_input_password_again"
+                        tools:layout_editor_absoluteX="0dp" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+            </LinearLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+         

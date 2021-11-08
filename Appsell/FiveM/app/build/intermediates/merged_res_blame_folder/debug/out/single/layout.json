@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\product_fragment.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\product_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_purchase.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_purchase.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_comment.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_product_detail.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_order_manager.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_order_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_input_card.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_input_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_manager_handle_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_manager_handle_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_menu_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_menu_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_image_new_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_image_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cart.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_remove_prorduct.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_remove_prorduct.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slider.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_like_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_like_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_payment.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_new_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\dialog_input_store.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_input_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_list_product.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_list_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\loading_view.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_spinner.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_z.xml",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_z.xml"
+    }
+]

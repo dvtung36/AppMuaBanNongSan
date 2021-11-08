@@ -1,0 +1,88 @@
+com/example/appsell/databinding/ItemImageNewProductBinding.java
+ com.example.appsell.databinding.ItemImageNewProductBinding
+com/example/appsell/databinding/FragmentMapBindingImpl.java
+ com.example.appsell.databinding.FragmentMapBindingImpl
+com/example/appsell/databinding/DialogInputStoreBinding.java
+ com.example.appsell.databinding.DialogInputStoreBinding
+com/example/appsell/databinding/FragmentNewBinding.java
+ com.example.appsell.databinding.FragmentNewBinding
+com/example/appsell/databinding/LoadingViewBinding.java
+ com.example.appsell.databinding.LoadingViewBinding
+com/example/appsell/databinding/FragmentRegisterBinding.java
+ com.example.appsell.databinding.FragmentRegisterBinding
+com/example/appsell/databinding/ItemMenuProductBinding.java
+ com.example.appsell.databinding.ItemMenuProductBinding
+com/example/appsell/databinding/ItemSliderBindingImpl.java
+ com.example.appsell.databinding.ItemSliderBindingImpl
+com/example/appsell/databinding/ItemCommentBinding.java
+ com.example.appsell.databinding.ItemCommentBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/appsell/databinding/FragmentCartBinding.java
+ com.example.appsell.databinding.FragmentCartBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/appsell/databinding/FragmentListProductBinding.java
+ com.example.appsell.databinding.FragmentListProductBinding
+com/example/appsell/databinding/FragmentLoginBinding.java
+ com.example.appsell.databinding.FragmentLoginBinding
+com/example/appsell/databinding/FragmentLoginBindingImpl.java
+ com.example.appsell.databinding.FragmentLoginBindingImpl
+com/example/appsell/databinding/DialogRemoveProrductBinding.java
+ com.example.appsell.databinding.DialogRemoveProrductBinding
+com/example/appsell/databinding/FragmentProductDetailBinding.java
+ com.example.appsell.databinding.FragmentProductDetailBinding
+com/example/appsell/databinding/FragmentRegisterBindingImpl.java
+ com.example.appsell.databinding.FragmentRegisterBindingImpl
+com/example/appsell/BR.java
+ com.example.appsell.BR
+com/example/appsell/DataBindingTriggerClass.java
+ com.example.appsell.DataBindingTriggerClass
+com/example/appsell/databinding/ActivityMainBinding.java
+ com.example.appsell.databinding.ActivityMainBinding
+com/example/appsell/databinding/DialogInputStoreBindingImpl.java
+ com.example.appsell.databinding.DialogInputStoreBindingImpl
+com/example/appsell/databinding/FragmentOrderManagerBinding.java
+ com.example.appsell.databinding.FragmentOrderManagerBinding
+com/example/appsell/databinding/FragmentZBinding.java
+ com.example.appsell.databinding.FragmentZBinding
+com/example/appsell/databinding/FragmentProfileBinding.java
+ com.example.appsell.databinding.FragmentProfileBinding
+com/example/appsell/databinding/DialogManagerHandleProductBinding.java
+ com.example.appsell.databinding.DialogManagerHandleProductBinding
+com/example/appsell/databinding/FragmentMapBinding.java
+ com.example.appsell.databinding.FragmentMapBinding
+com/example/appsell/utils/SharedPref.java
+ com.example.appsell.utils.SharedPref
+com/example/appsell/databinding/ProductFragmentBinding.java
+ com.example.appsell.databinding.ProductFragmentBinding
+com/example/appsell/BuildConfig.java
+ com.example.appsell.BuildConfig
+com/example/appsell/databinding/FragmentInputCardBinding.java
+ com.example.appsell.databinding.FragmentInputCardBinding
+com/example/appsell/databinding/LoadingViewBindingImpl.java
+ com.example.appsell.databinding.LoadingViewBindingImpl
+com/example/appsell/databinding/FragmentNewProductBinding.java
+ com.example.appsell.databinding.FragmentNewProductBinding
+com/example/appsell/databinding/ItemSpinnerBinding.java
+ com.example.appsell.databinding.ItemSpinnerBinding
+com/example/appsell/databinding/ItemLikeProductBinding.java
+ com.example.appsell.databinding.ItemLikeProductBinding
+com/example/appsell/databinding/FragmentHomeBindingImpl.java
+ com.example.appsell.databinding.FragmentHomeBindingImpl
+com/example/appsell/databinding/FragmentHomeBinding.java
+ com.example.appsell.databinding.FragmentHomeBinding
+com/example/appsell/databinding/DialogPaymentBinding.java
+ com.example.appsell.databinding.DialogPaymentBinding
+com/example/appsell/databinding/ItemSliderBinding.java
+ com.example.appsell.databinding.ItemSliderBinding
+com/example/appsell/DataBinderMapperImpl.java
+ com.example.appsell.DataBinderMapperImpl
+ com.example.appsell.DataBinderMapperImpl$InnerBrLookup
+ com.example.appsell.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/appsell/databinding/ItemPurchaseBinding.java
+ com.example.appsell.databinding.ItemPurchaseBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/appsell/databinding/ItemProductBinding.java
+ com.example.appsell.databinding.ItemProductBinding

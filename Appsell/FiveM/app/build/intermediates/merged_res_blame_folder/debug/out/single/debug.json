@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_display_medium.ttf.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\font\\sf_display_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edt_comment.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_edt_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye_off.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_eye_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dokho.jpg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_dokho.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_header_home_white.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_header_home_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_loading_view.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\loading_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_enter.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_login.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_phone_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_search.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_list_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_list_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_white.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_back_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_header_home.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vegetables.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_vegetables.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_on_un_select.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_on_un_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_display_regular.ttf.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\font\\sf_display_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_3.jpeg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\img_3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_down.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\anim_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_remove.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_4.jpeg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\img_4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checklist.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_checklist.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_online_select.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_online_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_off_un_select.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_off_un_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\font_sf_display_bold.ttf.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\font\\sf_display_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_increase.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_increase.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_fragment.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\product_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_payment.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slider.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_circle.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_default.jpg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_default.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_dialog_input_store.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_dialog_input_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_address.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_address.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_offline_select.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_offline_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button_cancel.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_button_cancel.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_remove_prorduct.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_remove_prorduct.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_birth_day.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_birth_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spinner.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_comment.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_image_new_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_image_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_like_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_like_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_donglanh.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_donglanh.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ha.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_ha.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_manager_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_manager_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_2.jpeg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\img_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_password.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_lock_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_edt_input_store.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_edt_input_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_giavi.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_giavi.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_drop_down.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_arrow_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drink.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_drink.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_z.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_input_store.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_input_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_image.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_menu_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_menu_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_different.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_different.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_slide_up.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\anim_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_input_card.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_input_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_drop_down.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_drop_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fruit.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_fruit.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_type_payment.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\bg_type_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_manager_handle_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\dialog_manager_handle_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sprout.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_sprout.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_edit_text_selector.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\color_edit_text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_carts.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_carts.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pakage.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_pakage.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reduction.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_reduction.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_milk.jpg.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_milk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_new_product.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_new_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_purchase.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\item_purchase.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_order_manager.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_order_manager.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_beef.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_beef.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product_detail.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\layout\\fragment_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_box.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\drawable\\ic_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_exit.xml.flat",
+        "source": "C:\\Users\\admin\\Downloads\\Appsell\\FiveM\\app\\src\\main\\res\\anim\\dialog_exit.xml"
+    }
+]

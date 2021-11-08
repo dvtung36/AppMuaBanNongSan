@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:fitsSystemWindows="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/btn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:background="?android:attr/actionBarItemBackground"
+            android:contentDescription="@null"
+            android:padding="@dimen/_4sdp"
+            android:src="@drawable/ic_back"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/txt_header"
+            style="@style/TextPrimaryBold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/product_detail"
+            android:textSize="18sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/btn_confirm"
+        android:layout_below="@+id/layout_header">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_120sdp"
+                    android:layout_margin="@dimen/_8sdp" />
+
+            </LinearLayout>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/view_product"
+                style="@style/Widget.MaterialComponents.CardView"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_120sdp"
+                android:layout_margin="@dimen/_8sdp"
+                android:padding="@dimen/_8sdp"
+                android:visibility="gone"
+                app:cardCornerRadius="@dimen/_2sdp"
+                app:cardElevation="@dimen/_4sdp">
+
+                <ImageView
+                    android:id="@+id/product_img"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@null"
+                    android:scaleType="fitCenter" />
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_8sdp">
+
+                <TextView
+                    android:id="@+id/product_name"
+                    style="@style/TextPrimaryBoldBigSize"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/_2sdp"
+                    android:textColor="@color/textColorPrimary"
+                    tools:text="Apple" />
+
+                <TextView
+                    android:id="@+id/product_type"
+                    style="@style/TextPrimaryBold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_2sdp"
+                    android:textColor="@color/black60"
+                    android:visibility="gone"
+                    tools:text="Vegetable" />
+
+                <TextView
+                    android:id="@+id/product_cost"
+                    style="@style/TextPrimaryBold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/_2sdp"
+                    android:textColor="@color/colorPrimary"
+                    tools:layout_editor_absoluteX="0dp"
+                    tools:text="5 VND" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/product_description"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_8sdp"
+                android:ellipsize="end"
+                android:scrollbarStyle="insideInset"
+                android:scrollbars="vertical"
+                android:textColor="@color/textColorSecondary"
+                tools:text="Apple production in California represents 8.5% of the national production (1)." />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/_8sdp"
+                android:background="@drawable/bg_input"
+                android:padding="@dimen/_2sdp">
+
+                <EditText
+                    android:id="@+id/editTextWriteComment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:layout_toStartOf="@id/buttonSend"
+                    android:background="@drawable/bg_edt_comment"
+                    android:ellipsize="end"
+                    android:hint="Enter comment..."
+                    android:maxLines="1"
+                    android:padding="@dimen/_8sdp"
+                    android:scrollbars="vertical" />
+
+                <TextView
+                    android:id="@+id/buttonSend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/_8sdp"
+                    android:text="Send"
+                    android:textColor="@color/colorPrimary"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_4sdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tvCommentTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_2sdp"
+                    android:textStyle="bold"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Comment" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcComment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="@dimen/_4sdp" />
+
+                <TextView
+                    android:id="@+id/tvProductTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:padding="@dimen/_2sdp"
+                    android:textStyle="bold"
+                    android:textColor="@color/textColorPrimary"
+                    android:text="Related Product" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcLikeProduct"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_8sdp"
+                    android:padding="@dimen/_4sdp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+    <TextView
+        android:id="@+id/btn_confirm"
+        style="@style/TextSubmitPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="@dimen/_16sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@drawable/bg_button"
+        android:gravity="center_horizontal"
+        android:text="@string/accept"
+        android:textColor="@color/white" />
+
+</RelativeLayout>
